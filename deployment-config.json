@@ -4,7 +4,8 @@
     "username": "root",
     "password": "hunter22",
     "new_password": "triggerHunter21",
-    "new_password_3": "hunter422"
+    "new_password_3": "hunter422",
+    "new_test_pswd": "supersecret",
     "port": 22,
     "remotePath": "/var/www",
     "uploadOnSave": true
